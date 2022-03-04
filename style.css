@@ -302,7 +302,7 @@ height: 43.34px;
 left: 36px;
 top: 56px;
 
-font-family: Roboto Slab;
+font-family: 'Roboto Slab';
 font-style: normal;
 font-weight: bold;
 font-size: 26px;
@@ -316,7 +316,7 @@ height: 174.27px;
 left: 36px;
 top: 107.72px;
 
-font-family: Roboto;
+font-family: 'Roboto';
 font-style: normal;
 font-weight: normal;
 font-size: 12px;
@@ -342,6 +342,34 @@ height: 146.78px;
 left: 113.12px;
 top: 338px;
 }
+
+.footer{
+    display: flex;
+        justify-content: space-around;
+}
+.footer h1{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 130%;
+    width: 69.9px;
+    top: 544px;
+    position: absolute;
+    height: 18.17px;
+}
+.footer p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 130%;
+    position: absolute;
+    width: 86px;
+    height: 18px;
+    top: 563px;
+}
+
+
+
 .one h1{
     position: absolute;
 width: 69.9px;
@@ -423,3 +451,5 @@ line-height: 130%;
     line-height: 130%;
     }
 }
+
+
