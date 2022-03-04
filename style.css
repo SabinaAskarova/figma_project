@@ -2,9 +2,9 @@
     margin: 0;
     padding: 0;
 }
-body{
+/* body{
     width: 1400px;
-}
+} */
 .header{
 position: absolute;
 width: 365px;
@@ -345,7 +345,7 @@ top: 338px;
 
 .footer{
     display: flex;
-        justify-content: space-around;
+    justify-content: space-around;
 }
 .footer h1{
     font-style: normal;
